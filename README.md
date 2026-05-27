@@ -9,6 +9,7 @@ Transformar datos de ventas en visualizaciones ejecutivas que apoyen la toma de 
 - Algunas categorías concentraron mayor volumen de ventas.
 - El tráfico comercial tuvo distribución equilibrada.
 - Los descuentos mostraron relación con el desempeño comercial.
+![Dashboard](docs/screenshots/trends.png)
 ## KPIs Incluidos:
 - Ventas Totales
 - Ganancia Total
