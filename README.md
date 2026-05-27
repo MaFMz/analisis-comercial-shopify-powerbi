@@ -1,0 +1,2 @@
+# analisis-comercial-shopify-powerbi
+
