@@ -1,4 +1,4 @@
-# Análisis Comercial de Shopify-powerbi
+# Análisis Comercial de Shopify - Power BI
 ![Dashboard](dashboard/dashboard-preview.png)
 ## Descripción:
 Dashboard interactivo desarrollado en Power BI para analizar ventas, ganancias, clientes y desempeño comercial utilizando un dataset de Shopify.
